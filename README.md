@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julien Lavocat</h1>
-<h3 align="center">A biology student from Bordeaux in France</h3>
+<h3 align="center">A biology student from Bordeaux, France</h3>
 
 - 🔭 I’m currently working on **Indiebackend**
 
