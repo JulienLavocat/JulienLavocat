@@ -5,11 +5,11 @@
 
 -   🌱 I’m currently learning **Microservices, Kubernetes and Unity**
 
--   👨‍💻 All of my projects are available at [julienlavocat.me](julienlavocat.me)
+-   👨‍💻 All of my projects are available at [julienlavocat.me](https://julienlavocat.me)
 
 -   📫 How to reach me **julien.lavocat@gmail.com**
 
--   📄 Know about my experiences [julienlavocat.me/resume](julienlavocat.me/resume)
+-   📄 Know about my experiences [julienlavocat.me/resume](https://julienlavocat.me/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
