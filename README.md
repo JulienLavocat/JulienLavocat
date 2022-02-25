@@ -9,7 +9,7 @@
 
 -   📫 How to reach me **julien.lavocat@gmail.com**
 
--   📄 Know about my experiences [julienlavocat.me/resume](https://julienlavocat.me/resume)
+-   📄 Know about my experiences [julienlavocat.me/resume.pdf](https://julienlavocat.me/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
