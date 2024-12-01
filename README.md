@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julien Lavocat</h1>
-<h3 align="center">A biology student from Bordeaux, France</h3>
+<h3 align="center">A a full stack developper from Bordeaux, France</h3>
 
 -   🔭 I’m currently working on **Indiebackend**
 
--   🌱 I’m currently learning **Microservices, Kubernetes and Unity**
+-   🌱 I’m currently learning **Godot**
 
 -   👨‍💻 All of my projects are available at [julienlavocat.me](https://julienlavocat.me)
 
